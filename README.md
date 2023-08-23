@@ -23,7 +23,7 @@ The problems which we chose to study are :
 We have used C language to solve the problem statements.
 
 ## Problem Statements:
-### - Parts of a Car:
+###  Parts of a Car:
     Let’s assume a situation where the headquarters of the company can
     accommodate only 2 of the 3 resources for manufacturing a car at a
     time. We assume that the three resources are Engine, Chassis and Music
@@ -38,7 +38,7 @@ We have used C language to solve the problem statements.
     
     - Only 2 resources are accessed at a time in the headquarters and the third resource is made available in the workshop.
       
-### - Gas Station:
+###  Gas Station:
     Consider a gas station with three gas pumps, three attenders and a waiting lane
     that can accommodate four cars. Only 7 cars are allowed inside the station; 3 at
     the gas pump and 4 in the waiting line. A car will not enter the gas station if
@@ -66,7 +66,7 @@ We have used C language to solve the problem statements.
     - The attender must acceptPayment before the car can exitStation.
 
 
-### - Cafeteria Problem:
+###  Cafeteria Problem:
     Assume a cafeteria with only one cook during lunch times that puts the food in
     the trays and puts the trays on a conveyor belt so students can fetch them and
     eat. The conveyor can take at most 8 trays. If the conveyor is full, the cook
