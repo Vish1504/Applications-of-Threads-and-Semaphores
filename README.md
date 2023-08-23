@@ -83,3 +83,11 @@ We have used C language to solve the problem statements.
     - One student can fetch only one tray at a time.
     
     - Order of the students while fetching a tray is not important.
+
+## Conclusion
+Through this project, we have thoroughly understood threads as well as their
+applications. We have also learnt how to apply threads and synchronization
+mechanisms such as semaphores to solve real world problems. We have thoroughly
+studied existing problems such as the Reader/Writer problem and Dining Philosophers
+problem and gained enough knowledge to successfully solve our own problem
+statements.
